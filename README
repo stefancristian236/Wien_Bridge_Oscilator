@@ -1,6 +1,6 @@
-#Wien Bridge Oscillator
+# Wien Bridge Oscillator
 
-##Schematic & PCB
+## Schematic & PCB
 Full schematic and simulation is available in the 'Wien_oscillator' file in LTSpice.
 The PCB can be accessed using a proper PCB design software and accessing the 'oscilatorWien3.brd' file.
 The circuit was simulated in LTSpice and routed in OrCAD.
